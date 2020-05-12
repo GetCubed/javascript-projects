@@ -6,7 +6,7 @@
 # Drum Kit
 
 ```markdown
-Use your keyboard to make a cool beat :sunglasses:
+Use your keyboard to make a cool beat
 ```
 
 <div class="container">
