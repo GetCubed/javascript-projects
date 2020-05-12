@@ -1,6 +1,5 @@
-## :grinning: Welcome. This blog is about getting back to basics.
+## Welcome. This blog is about getting back to basics. :smile:
 
-:grinning:
 Enjoy this showcase series of Javascript based projects using just HTML, CSS, and Javascript. No **libraries**, no **frameworks**, and no **boilerplates**.
 
 Starting the series with [JavaScript30](https://javascript30.com/), a collection of simple JavaScript ideas.
@@ -8,3 +7,7 @@ Starting the series with [JavaScript30](https://javascript30.com/), a collection
 ### Drum Kit
 
 [Check it out here](./drum-kit/index.html)
+
+```markdown
+code
+```
