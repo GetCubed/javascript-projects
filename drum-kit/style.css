@@ -1,14 +1,6 @@
-html {
-    font-size: 10px;
-}
-
 .drumKit {
-    background-image: url(https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-    width: 100%;
+    background: url(https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg)
+        center bottom;
 }
 
 .keys {

@@ -1,7 +1,9 @@
 <link rel="stylesheet" href="style.css" />
 <script src="script.js" defer></script>
 
-### Drum Kit Use your keyboard to make a cool beat :sunglasses:
+## Drum Kit
+
+Use your keyboard to make a cool beat :sunglasses:
 
 <div class="drumKit">
     <div class="keys">
