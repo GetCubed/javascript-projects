@@ -4,6 +4,8 @@
     background-image: url(https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg);
     background-size: cover;
     background-position: center;
+    border: 5px solid black;
+    border-radius: 5px;
 }
 
 .keys {
