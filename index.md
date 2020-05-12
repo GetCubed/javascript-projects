@@ -6,4 +6,4 @@ Starting the series with [JavaScript30](https://javascript30.com/), a collection
 
 ### Drum Kit
 
-[Click Here](./drum-kit/index.html)
+[Check it out here](./drum-kit/index.html)
