@@ -11,7 +11,9 @@
     </div>
 </div>
 
-<iframe src="www.google.ca"> FRAME HERE </iframe>
+<iframe width="100%" height="600" src="https://www.w3schools.com">
+  <p>Your browser does not support iframes.</p>
+</iframe>
 
 <div >
     after iframe
