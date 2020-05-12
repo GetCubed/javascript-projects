@@ -5,7 +5,7 @@
 
 Use your keyboard to make a cool beat :sunglasses:
 
-<div class="drumKit">
+<div class="container">
     <div class="keys">
         <div data-key="65" class="key">
             <kbd>A</kbd>

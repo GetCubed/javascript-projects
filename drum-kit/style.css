@@ -1,28 +1,33 @@
-.drumKit {
-    background: url(https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg)
-        center bottom;
+.container {
+    min-width: 672px;
+    max-width: 1024px;
+    background-image: url(https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg);
+    background-size: cover;
+    background-position: center;
 }
 
 .keys {
     display: flex;
-    flex: 1;
-    min-height: 100vh;
+    min-height: 400px;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .key {
-    border: 0.4rem solid black;
-    border-radius: 0.5rem;
-    margin: 1rem;
-    font-size: 1.5rem;
-    padding: 1rem 0.5rem;
+    flex: 1 0 auto;
+    margin: 0 4px;
+    display: flex;
+    flex-direction: column;
+
+    border: 5px solid black;
+    border-radius: 5px;
+
+    padding: 10px 10px;
     transition: all 0.07s ease;
-    width: 10rem;
     text-align: center;
     color: white;
-    background: rgba(0, 0, 0, 0.4);
-    text-shadow: 0 0 0.5rem black;
+    background: rgba(160, 160, 160, 0.4);
+    text-shadow: 0 0 10px black;
 }
 
 .playing {
@@ -33,12 +38,11 @@
 
 kbd {
     display: block;
-    font-size: 4rem;
+    font-size: xx-large;
 }
 
 .sound {
-    font-size: 1.2rem;
+    font-size: medium;
     text-transform: uppercase;
-    letter-spacing: 0.1rem;
     color: #ffc600;
 }
