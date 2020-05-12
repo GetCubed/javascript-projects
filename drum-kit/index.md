@@ -1,9 +1,13 @@
 <link rel="stylesheet" href="style.css" />
 <script src="script.js" defer></script>
 
-## Drum Kit
+# Drum Kit
 
+[**Back**](./drum-kit/index.html)
+
+```markdown
 Use your keyboard to make a cool beat :sunglasses:
+```
 
 <div class="container">
     <div class="keys">
@@ -56,3 +60,5 @@ Use your keyboard to make a cool beat :sunglasses:
     <audio data-key="76" src="sounds/tink.wav"></audio>
 
 </div>
+
+[**Back**](./drum-kit/index.html)
