@@ -1,1 +1,1 @@
-<a>link</a>
+[Link to another page](./another-page.html).
